@@ -12,7 +12,7 @@ public class MavenProjectTest
     {
         MavenProject mav = new MavenProject();
 
-        Assert.assertEquals(mav.add(26,65),91);
-        Assert.assertEquals(mav.shopName("Salisbury"),mav.shopOwnerName("Eugene"),mav.add(23,20));
+
+        Assert.assertEquals(mav.shopName("Salisbury"),mav.shopOwnerName("Eugene"),mav.shopName("Eugene"));
     }
 }
