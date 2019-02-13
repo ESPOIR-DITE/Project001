@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: cput.ac.za.MavenProjectTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.159 s <<< FAILURE! - in cput.ac.za.MavenProjectTest
+Shop(cput.ac.za.MavenProjectTest)  Time elapsed: 0.026 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Salisbury]> but was:<[Taylor]>
+	at cput.ac.za.MavenProjectTest.Shop(MavenProjectTest.java:16)
+
