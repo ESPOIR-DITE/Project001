@@ -13,6 +13,6 @@ public class MavenProjectTest
         MavenProject mav = new MavenProject();
 
 
-        Assert.assertEquals(mav.shopName("Salisbury"),mav.shopOwnerName("Eugene"),mav.shopName("Eugene"));
+        Assert.assertEquals(mav.shopName("Salisbury"),mav.shopOwnerName("Salisbury"));
     }
 }
