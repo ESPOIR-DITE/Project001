@@ -14,5 +14,6 @@ public class MavenProjectTest
 
 
         Assert.assertEquals(mav.shopName("Salisbury"),mav.shopOwnerName("Salisbury"));
+        System.out.println("Hello TaylorLok!");//Michael Contribution
     }
 }
